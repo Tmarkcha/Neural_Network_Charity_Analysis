@@ -7,7 +7,7 @@ This project’s purpose is to apply deep-learning neural networks with the Tens
 ## Results
 
 - What variable(s) are considered the target(s) for your model?
--- The target variable that was targeted for the model was the “IS_SUCCESSFUL” category.
+  - The target variable that was targeted for the model was the “IS_SUCCESSFUL” category.
 - What variable9s) are considered to be the features for your model?
 -- The following columns were considered as features: EIN, NAME, APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION, STATUS, INCOME_AMT, SPECIAL_CONSIDERATIONS, ASK_AMT, and IS_SUCCESSFUL.
 -What variable9s) are neither targets nor features,, and should be removed from the input data?
