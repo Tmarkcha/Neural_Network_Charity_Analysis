@@ -16,8 +16,13 @@ This project’s purpose is to apply deep-learning neural networks with the Tens
   - Two hidden node layers, with 80 nodes in the first layer, and the second layer included 30 neurons. Both hidden layers and the output layer included activation functions “relu” and “sigmoid”.
 - Were you able to achieve the target model performance?
   - The model was not successful in obtaining the 75% accuracy target. It did, however, come in close with an accuracy of 72.3% with a loss of 57.5%.
+  
+  ![Accuracy_Score](https://user-images.githubusercontent.com/111096246/214365018-32dacd02-afc6-4d03-9215-7e4819f142bc.PNG)
+  
 - What steps did you take to try and increase model performance?
   - Changed the number of neurons in the second hidden layer from 30 to 50 neurons, and added a third hidden layer with 30 neurons. 
+  
+  ![third_layer](https://user-images.githubusercontent.com/111096246/214365055-213c3718-6313-4ad0-b85a-337582feabec.PNG)
 
 ## Summary
 
